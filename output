@@ -1,0 +1,8 @@
+1_valid  the result =4	 prefix= *2+5-3*23
+2_valid  the result =-1	 prefix= -2*3-76
+3_valid  the result =65	 prefix= +2+-49*4+6-+751
+4_invalid 
+5_invalid 
+6_valid  the result =4	 prefix= +2-53
+7_invalid 
+8_valid  the result =10	 prefix= +55
